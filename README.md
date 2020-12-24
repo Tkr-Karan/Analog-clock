@@ -1,6 +1,6 @@
-#That wa an analog clock which or run using python
+# That wa an analog clock which or run using python
 
-#the module which I used in that are 
-#-> Turtle
-#-> Time
+# the module which I used in that are 
+# -> Turtle
+# -> Time
 
