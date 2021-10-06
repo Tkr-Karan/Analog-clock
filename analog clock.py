@@ -1,4 +1,4 @@
-# inportinting the module time and turtle
+# importinting the module time and turtle
 import time
 import turtle
 
